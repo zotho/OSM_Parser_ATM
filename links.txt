@@ -1,3 +1,5 @@
 https://pypi.org/project/OSMAlchemy/
 http://osmapi.metaodi.ch/#osmapi.OsmApi.OsmApi.NotesGet
 https://wiki.openstreetmap.org/wiki/Osmapi
+
+https://boosters.pro/champ_21
